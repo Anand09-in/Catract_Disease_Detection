@@ -1,4 +1,5 @@
 # Cataract Detection via Near Infrared Images
+<img src='images/mask.png'>
 
 
 ## Overview
