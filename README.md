@@ -13,9 +13,9 @@ This project focuses on detecting cataracts using near infrared images, providin
 Two advanced segmentation techniques, U-Net and DeepLabV3, are implemented to segment the cataract regions within the near infrared images. These architectures excel in capturing detailed object boundaries and features, allowing for accurate region identification.
 
 #### U-Net
-<img src='unet.png'>
+<img src='images/unet.png'>
 #### DeepLabV3
-<img src='deeplab.png'>
+<img src='images/deeplab.png'>
 ### Classification using ResNet50
 
 The ResNet50 architecture is employed for image classification. It distinguishes between cataract-affected regions and healthy regions based on extracted features. This step provides a final diagnosis by determining whether a given region contains cataracts.
