@@ -14,6 +14,7 @@ Two advanced segmentation techniques, U-Net and DeepLabV3, are implemented to se
 
 #### U-Net
 <img src='images/unet.png'>
+
 #### DeepLabV3
 <img src='images/deeplab.png'>
 ### Classification using ResNet50
@@ -34,6 +35,13 @@ The ResNet50 architecture is employed for image classification. It distinguishes
 By combining advanced image segmentation and classification techniques, this project aims to provide an automated solution for early cataract detection. Detecting cataracts at an early stage can lead to timely intervention and better outcomes for individuals with impaired vision.
 
 ## Results
+
+#### U-Net + ResNet-50
+<img src='images/ur.png'>
+
+#### DeepLabV3 + Resnet 50
+<img src='images/dr.png'>
+
 
 
 
