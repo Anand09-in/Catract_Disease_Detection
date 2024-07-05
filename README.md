@@ -17,6 +17,7 @@ Two advanced segmentation techniques, U-Net and DeepLabV3, are implemented to se
 
 #### DeepLabV3
 <img src='images/deeplab.png'>
+
 ### Classification using ResNet50
 
 The ResNet50 architecture is employed for image classification. It distinguishes between cataract-affected regions and healthy regions based on extracted features. This step provides a final diagnosis by determining whether a given region contains cataracts.
